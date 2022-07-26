@@ -12,7 +12,7 @@ import javax.swing.*;
 
 public class BeanDefinitionTest {
 
-//    AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(AppConfig.class);
+    AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(AppConfig.class);
 
 
     @Test
